@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://plumberabilene.github.io/sitemap.xml
+Sitemap: https://water-heater-repair-abilene-tx.pagesk.workers.dev/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
